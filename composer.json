@@ -1,7 +1,7 @@
 {
     "name": "freddiesflowers/send-in-blue-apiv3",
     "description": "Freddie's Fork of SendinBlue provided RESTFul API V3 php library",
-    "version":"0.8.7"
+    "version":"0.8.8",
     "keywords": [
         "sendinblue",
         "swagger",
