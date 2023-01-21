@@ -1,6 +1,6 @@
 {
-    "name": "sendinblue/api-v3-sdk",
-    "description": "Official SendinBlue provided RESTFul API V3 php library",
+    "name": "freddiesflowers/send-in-blue-apiv3",
+    "description": "Freddie's Fork of SendinBlue provided RESTFul API V3 php library",
     "keywords": [
         "sendinblue",
         "swagger",
@@ -8,14 +8,19 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/sendinblue/APIv3-php-library",
+    "homepage": "https://github.com/freddiesflowers/send-in-blue-APIv3",
     "license": "MIT",
     "authors": [
         {
             "name": "SendinBlue Developers",
             "email": "contact@sendinblue.com",
             "homepage": "https://www.sendinblue.com/"
-        }
+        },
+        {
+            "name": "Freddie's Developers",
+            "email": "development@freddiesflowers.com",
+            "homepage": "https://www.freddiesflowers.com/"
+        },
     ],
     "require": {
         "php": ">=5.6",
@@ -37,7 +42,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "8.x.x-dev"
+            "dev-master": "0.x.x-dev"
         }
     }
 }
