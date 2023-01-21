@@ -20,7 +20,7 @@
             "name": "Freddie's Developers",
             "email": "development@freddiesflowers.com",
             "homepage": "https://www.freddiesflowers.com/"
-        },
+        }
     ],
     "require": {
         "php": ">=5.6",
